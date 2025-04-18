@@ -1,12 +1,3 @@
-// led.cpp - Controls LEDs connected to PA0, PA1, PA2, and PA3
-// ECE372A Lab 2
-
-// Author:   Muhammad Hafiz      
-// Net ID:   muhammadhafiz      
-// Date:       03 March 2025     
-// Assignment:     Lab 2
-//----------------------------------------------------------------------//
-
 #include "led.h"
 #include <avr/io.h>
 
