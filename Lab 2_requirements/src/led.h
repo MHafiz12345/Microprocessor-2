@@ -1,14 +1,3 @@
-// Description: This file contains function prototypes to be implemented in
-// led.cpp and to be included in main.cpp.
-//----------------------------------------------------------------------//
-
-// Author:   Muhammad Hafiz      
-// Net ID:   muhammadhafiz      
-// Date:        03 March 2025      
-// Assignment:     Lab 2
-//----------------------------------------------------------------------//
-
-
 #ifndef LED_H  
 #define LED_H  
 
