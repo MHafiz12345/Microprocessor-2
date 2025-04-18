@@ -1,12 +1,3 @@
-//----------------------------------------------------------------------//
-
-// Author:   Muhammad Hafiz      
-// Net ID:   muhammadhafiz      
-// Date:        03 March 2025     
-// Assignment:     Lab 2
-//----------------------------------------------------------------------//
-
-
 #ifndef TIMER_H  
 #define TIMER_H  
 #include <avr/io.h>  
