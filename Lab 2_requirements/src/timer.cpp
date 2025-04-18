@@ -1,9 +1,3 @@
-// Author:   Muhammad Hafiz      
-// Net ID:   muhammadhafiz      
-// Date:       03 March 2025    
-// Assignment:     Lab 2
-//----------------------------------------------------------------------//
-
 #include "timer.h"
 #include <avr/io.h>          // For AVR I/O definitions
 #include <avr/interrupt.h>   // For interrupt handling
