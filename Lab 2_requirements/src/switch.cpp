@@ -1,12 +1,3 @@
-// switch.cpp - Initializes an external switch on PB3
-// ECE372A Lab 2
-
-// Author:   Muhammad Hafiz      
-// Net ID:   muhammadhafiz      
-// Date:       03 March 2025    
-// Assignment:     Lab 2
-//----------------------------------------------------------------------//
-
 #include "switch.h"
 #include <avr/io.h>
 #include <avr/interrupt.h>
