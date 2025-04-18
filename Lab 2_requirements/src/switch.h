@@ -1,13 +1,3 @@
-// Description: Function prototypes for switch.cpp
-//----------------------------------------------------------------------//
-
-// Author:   Muhammad Hafiz      
-// Net ID:   muhammadhafiz      
-// Date:       03 March 2025     
-// Assignment:     Lab 2
-//----------------------------------------------------------------------//
-
-
 #ifndef SWITCH_H  
 #define SWITCH_H  
 
