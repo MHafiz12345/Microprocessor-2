@@ -64,19 +64,6 @@ Speed toggle is handled in `DEBOUNCE_PRESS` for immediate effect.
 * Efficient bit masking
 * Global interrupt management (`sei()`, `ISR()` macros)
 
-## 📚 Build Instructions
-
-```bash
-# Compile all source files
-avr-gcc -mmcu=atmega2560 -O2 -o binary_counter.elf main.c led.c switch.c timer.c
-
-# Convert to hex file
-avr-objcopy -O ihex -R .eeprom binary_counter.elf binary_counter.hex
-
-# Flash to microcontroller (using avrdude)
-avrdude -p atmega2560 -c stk500v2 -P /dev/ttyACM0 -U flash:w:binary_counter.hex
-```
-
 ## 🔌 Hardware Requirements
 
 * AVR ATmega2560 microcontroller board
